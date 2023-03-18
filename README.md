@@ -37,6 +37,9 @@
 
 **Laptop Station Frontend** holds the Frontend development source React-Redux app of the Hello React Front End app which is a "Hello World" type app to learn the basic conection between React/Redux and Rails.
 
+![image](https://user-images.githubusercontent.com/104022866/226108872-aee3f19f-440a-4a64-80d5-510ed8aa8185.png) 
+![image](https://user-images.githubusercontent.com/104022866/226108957-517490e4-ee5d-4ba5-accd-9ca03b64d8e5.png)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
